@@ -161,4 +161,25 @@ fclose($handle);
 exit;
 ?>
 
+https://github.com/Karma47/temp/blob/master/hello.txt
+
+
+Nmap :https://nmap.org/download.html
+
+Archive:
+https://archive.org/index.php
+
+Jolly rodger:
+http://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/%E2%80%8B
+
+Archive snap :
+https://web.archive.org/web/20160222222911/https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/
+
+Task :
+https://www.computer.org/cms/CYBSI/docs/Top-10-Flaws.pdf
+
+Vulne :
+https://nvd.nist.gov/
+https://securitytracker.com/
+
 
